@@ -10,8 +10,8 @@ El dispositivo revisa cada 60 segundos:
 {
   "firmware": {
     "update": false,
-    "url": "https://raw.githubusercontent.com/dannyroot95/athor-home-firmware/main/firmware/sonoff-1.0.18-remote-no-fs.bin",
-    "version": "1.0.18",
+    "url": "https://raw.githubusercontent.com/dannyroot95/athor-home-firmware/main/firmware/sonoff-1.0.20-remote-no-fs.bin",
+    "version": "1.0.20",
     "force": false
   }
 }
